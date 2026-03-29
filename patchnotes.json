@@ -1,6 +1,13 @@
 {
   "patchnotes": [
     {
+      "id": "1762561064647",
+      "title": "1.21.120 Update",
+      "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/r21_12_1170x500.png",
+      "url": "https://www.minecraft.net/en-us/article/minecraft--bedrock-edition-1-21-120",
+      "order": 0
+    },
+    {
       "title": "1.21.111 -The Coppper Age",
       "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/BE_changelog_copper_age_1170x500.jpg",
       "url": "https://www.minecraft.net/en-us/article/the-copper-age---minecraft--bedrock-edition-1-21-111-changelog",
@@ -160,13 +167,6 @@
       "img": "https://www.minecraft.net/content/dam/minecraftnet/minecraft/game-updates/1-19-60_header.jpg",
       "url": "https://www.minecraft.net/fr-fr/article/1-19-60-update-available-bedrock",
       "order": 23
-    },
-    {
-      "id": "1762561064647",
-      "title": "1.21.120 Update",
-      "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/r21_12_1170x500.png",
-      "url": "https://www.minecraft.net/en-us/article/minecraft--bedrock-edition-1-21-120",
-      "order": 0
     }
   ]
 }
